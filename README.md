@@ -28,6 +28,10 @@ This list serves two purposes:
 ## Learning code
 * [Exercism.io](http://exercism.io/) 
 
+## Inventory Software
+* [odoo](https://www.odoo.com/app/inventory?msockid=08c63b85b14368c202272e99b0be6905) 
+
+
 
 ## More Awesome Lists
 * [Awesome](https://github.com/sindresorhus/awesome) *(The OG List)*
